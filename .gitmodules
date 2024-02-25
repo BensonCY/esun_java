@@ -1,0 +1,6 @@
+[submodule "library-infomation-management-frontend"]
+	path = library-infomation-management-frontend
+	url = https://github.com/BensonCY/library-infomation-management-frontend.git
+[submodule "ESUN-Backend"]
+	path = ESUN-Backend
+	url = https://github.com/BensonCY/ESUN-Backend.git
